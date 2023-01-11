@@ -12,3 +12,6 @@ Sample website with plenty of files for demos
 ## Deployment
 
 Some text
+
+## Contact
+some contact details
