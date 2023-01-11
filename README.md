@@ -6,6 +6,8 @@ Adding some more text for rebasing example. Then more changes from
 my feature branch too.
 Stash example
 
+Doing emergency fix after stash
+
 
 ## Introduction
 This is some introduction
