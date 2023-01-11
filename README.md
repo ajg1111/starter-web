@@ -20,3 +20,6 @@ some contact details
 
 ## Some more sample
 Some more sample text
+
+## Copyright
+Some copyright 2003
