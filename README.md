@@ -8,6 +8,8 @@ Stash example
 
 Doing emergency fix after stash
 
+Doing a branch stash
+
 
 ## Introduction
 This is some introduction
