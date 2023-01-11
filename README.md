@@ -9,6 +9,10 @@ This is some introduction
 
 Sample website with plenty of files for demos
 
+
+## How to Contribute
+Please fork this repo and then issue pull request for review
+
 ## Deployment
 
 Some text
