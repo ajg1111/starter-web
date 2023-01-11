@@ -15,3 +15,8 @@ Some text
 
 ## Contact
 some contact details
+
+## Yet another section
+
+## Some more sample
+Some more sample text
